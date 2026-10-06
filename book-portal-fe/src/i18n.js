@@ -8,7 +8,7 @@ i18n.use(initReactI18next).init({
         "Books": "Books",
         "Users": "Users",
         "Authors": "Authors",
-        "Admin Panel": "Admin Panel",
+        "Admin Panel": "Admin's Panel",
         "Add Book": "Add Book",
         "Add User": "Add User",
         "Add Author": "Add Author",
